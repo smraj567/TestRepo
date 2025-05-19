@@ -1,0 +1,5 @@
+1. Please confirm the Admin cancellation report is required or not.
+2. As per the requirements the the policy start date have 14 days cooling period from the policy punch date. If the policy extends the start would be the next date of expiray date or which also have the cooling period.
+3. Please confirm if the policy number have specific format or not
+4. Business should be take the responsibility of SMS Functionality.
+5. There is policy number reset option
